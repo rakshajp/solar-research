@@ -1,4 +1,4 @@
-
+Worked on code locally but was unable to resolve issues. Code dowloaded from: 
 ## Deepsolar repo
 https://github.com/wangzhecheng/DeepSolar
 
