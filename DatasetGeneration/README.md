@@ -1,3 +1,5 @@
+## Steps
+
 Enable Google Maps Static API in GCP, create new API key and update in script as API_KEY.
 
 Generate coordinates for CSV from geojson.io JSON
