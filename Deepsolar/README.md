@@ -2,6 +2,8 @@
 ## Deepsolar repo
 https://github.com/wangzhecheng/DeepSolar
 
+We need to first generate our dataset to use this framework.
+
 ## Deepsolar dataset without test metadata labels only 
 https://s3.console.aws.amazon.com/s3/buckets/ame-solar-images?region=us-east-2&tab=objects sourced from: https://www.kaggle.com/datasets/husseinawala/deepsolar
 ## Deepsolar final database containing location data of regions that have solar panels in 2017 
